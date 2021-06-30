@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">User Github</string>
+    <string name="github_user">Github User</string>
+
+    <string name="following">Mengikuti</string>
+    <string name="follower">Pengikut</string>
+    <string name="username">Username</string>
+    <string name="company">Perusahaan</string>
+    <string name="name_company">Nama Perusahaan</string>
+    <string name="repository">Repository</string>
+    <string name="location">Lokasi</string>
+    <string name="name_user">Nama User</string>
+    <string name="id_user">Id User</string>
+    <string name="follower_number">Nomor Pengikut</string>
+    <string name="following_number">Nomor Mengikuti</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="input_username">Masukan Username</string>
+
+    <string name="bad_request">Bad Request</string>
+    <string name="forbidden">Forbidden</string>
+    <string name="not_found">Not Found</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="change_languange">Ganti Bahasa</string>
+    <string name="favorite">Favorite</string>
+    <string name="reminder">Pengingat</string>
+    <string name="on_reminder_button">Reminder Aktif</string>
+    <string name="off_reminder_button">Reminder Mati</string>
+    <string name="success_add_favorite">Sukses Menambahkan</string>
+    <string name="remove_from_favorite">Sukses Menghapus</string>
+    <string name="not_data">Tidak ada data</string>
+    <string name="reminder_alarm">Reminder Alarm</string>
+    <string name="desc">Akan selalu mengingatkan Anda tentang aplikasi Github User</string>
+    <string name="reminder_on">Reminder Alarm Aktif</string>
+    <string name="reminder_off">Reminder Alarm Mati</string>
+    <string name="text_notification">Mari kita temukan pengguna populer pengguna di Github</string>
+    <string name="time_alarm">09:00 AM</string>
+</resources>

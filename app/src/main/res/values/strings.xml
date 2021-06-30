@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">User Github</string>
+    <string name="github_user">Github User</string>
+
+    <string name="following">Following</string>
+    <string name="follower">Followers</string>
+    <string name="username">Username</string>
+    <string name="company">Company</string>
+    <string name="name_company">Name Company</string>
+    <string name="repository">Repository</string>
+    <string name="location">Location</string>
+    <string name="name_user">Name User</string>
+    <string name="id_user">Id User</string>
+    <string name="follower_number">Follower Number</string>
+    <string name="following_number">Following Number</string>
+    <string name="change_language">Change Language</string>
+    <string name="input_username">Input Username</string>
+
+    <string name="bad_request">Bad Request</string>
+    <string name="forbidden">Forbidden</string>
+    <string name="not_found">Not Found</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="change_languange">Change Languange</string>
+    <string name="favorite">Favorite</string>
+    <string name="reminder">Reminder</string>
+    <string name="on_reminder_button">On Reminder</string>
+    <string name="off_reminder_button">Off Reminder</string>
+    <string name="success_add_favorite">Success Added</string>
+    <string name="remove_from_favorite">Success Deleted</string>
+    <string name="not_data">Havent Data</string>
+    <string name="reminder_alarm">Reminder Alarm</string>
+    <string name="desc">Will always remind you about the Github User application</string>
+    <string name="reminder_on">Reminder Alarm On</string>
+    <string name="reminder_off">Reminder Alarm Off</string>
+    <string name="text_notification">Lets find user popular user on Github</string>
+    <string name="time_alarm">09:00 AM</string>
+    <string name="settings">settings</string>
+
+</resources>
